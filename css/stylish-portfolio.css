@@ -243,3 +243,7 @@ i.scroll:hover {
 .icon-anchor {
   color: black;
 }
+
+.portfolio-item {
+  margin: 50px 0;
+}
