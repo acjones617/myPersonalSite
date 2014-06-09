@@ -111,11 +111,12 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/GGBridge.JPG) no-repeat center center fixed; 
+  background: url(../img/green_trail.JPG) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  color: white;
 }
 
 /* Intro */
@@ -240,9 +241,14 @@ i.scroll:hover {
   margin: 0 10px;
 }
 
-.icon-anchor {
-  color: black;
+.icon-anchor:link, .icon-anchor:visited {
+  color: #B3E874;
 }
+
+.icon-anchor:hover {
+  color: white;
+}
+
 
 .portfolio-item {
   margin: 50px 0;
