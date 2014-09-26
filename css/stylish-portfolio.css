@@ -179,12 +179,12 @@ i.service-icon {
 
 .img-portfolio {
   margin: 0 auto;
-  width: 60%;
+  width: 40%;
 }
 
 .img-portfolio-vertical {
   margin: 0 auto;
-  height: 60rem;
+  height: 50rem;
 }
 
 
@@ -263,3 +263,18 @@ i.scroll:hover {
 .portfolio-item {
   margin: 50px 0;
 }
+/*
+.my-work {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 0;
+}
+
+.plentyy, .npm, .happy {
+  background-color: #BCB1BF;
+}
+
+.kiwi, .rasr {
+  background-color: #FBECFF;
+}*/
